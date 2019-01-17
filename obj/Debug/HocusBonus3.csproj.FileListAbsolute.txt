@@ -1,0 +1,7 @@
+C:\Users\Evans\source\repos\HocusBonus3\HocusBonus3\bin\Debug\HocusBonus3.exe.config
+C:\Users\Evans\source\repos\HocusBonus3\HocusBonus3\bin\Debug\HocusBonus3.exe
+C:\Users\Evans\source\repos\HocusBonus3\HocusBonus3\bin\Debug\HocusBonus3.pdb
+C:\Users\Evans\source\repos\HocusBonus3\HocusBonus3\obj\Debug\HocusBonus3.csprojAssemblyReference.cache
+C:\Users\Evans\source\repos\HocusBonus3\HocusBonus3\obj\Debug\HocusBonus3.csproj.CoreCompileInputs.cache
+C:\Users\Evans\source\repos\HocusBonus3\HocusBonus3\obj\Debug\HocusBonus3.exe
+C:\Users\Evans\source\repos\HocusBonus3\HocusBonus3\obj\Debug\HocusBonus3.pdb
